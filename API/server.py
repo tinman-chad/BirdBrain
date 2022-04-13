@@ -26,7 +26,7 @@ def custom_openapi():
         return app.openapi_schema
     openapi_schema = get_openapi(
         title="BirdBrain API",
-        version="0.1.0",
+        version="0.1.1",
         description="This api allows the user to upload an image and uses Tensorflow's Object Detection API to find birds in the image and users a custom trained image classifcation model based upon EfficentNetV2L using Keras to classify the bird species of any birds found in the image.",
         routes=app.routes,
     )
@@ -56,13 +56,13 @@ async def health():
 
 @app.get("/ping")
 async def ping():
-    """Keap alive"""
+    """Keep alive"""
     return "pong"
 
 @app.get("/")
 async def root():
     return HTMLResponse(status_code=200, content="""
-    <html><head><title>BirdBrain V. 0.1.0</title></head><body>
+    <html><head><title>BirdBrain V. 0.1.1</title></head><body>
         <h1>BirdBrain</h1>
         <div>Select a file and then choose to find the birds.<br>
         Click the JSON Data for the full details of what was found.<br>
