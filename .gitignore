@@ -1,2 +1,4 @@
 
 *.hdf5
+
+API/__pycache__/
