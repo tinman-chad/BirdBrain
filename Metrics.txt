@@ -1,0 +1,651 @@
+AFRICAN CROWNED CRANE accuracy: 0/5 0%
+
+AFRICAN FIREFINCH accuracy: 5/5 100%
+
+ALBATROSS accuracy: 5/5 100%
+
+ALEXANDRINE PARAKEET accuracy: 4/5 90%
+
+AMERICAN AVOCET accuracy: 5/5 100%
+
+AMERICAN BITTERN accuracy: 5/5 100%
+
+AMERICAN COOT accuracy: 5/5 100%
+
+AMERICAN GOLDFINCH accuracy: 5/5 100%
+
+AMERICAN KESTREL accuracy: 4/5 90%
+
+AMERICAN PIPIT accuracy: 5/5 100%
+
+AMERICAN REDSTART accuracy: 3/5 60%
+
+ANHINGA accuracy: 5/5 100%
+
+ANNAS HUMMINGBIRD accuracy: 0/5 0%
+
+ANTBIRD accuracy: 2/5 40%
+
+ARARIPE MANAKIN accuracy: 5/5 100%
+
+ASIAN CRESTED IBIS accuracy: 3/5 60%
+
+BALD EAGLE accuracy: 5/5 100%
+
+BALD IBIS accuracy: 0/5 0%
+
+BALI STARLING accuracy: 5/5 100%
+
+BALTIMORE ORIOLE accuracy: 5/5 100%
+
+BANANAQUIT accuracy: 5/5 100%
+
+BANDED BROADBILL accuracy: 5/5 100%
+
+BANDED PITA accuracy: 5/5 100%
+
+BAR-TAILED GODWIT accuracy: 5/5 100%
+
+BARN OWL accuracy: 5/5 100%
+
+BARN SWALLOW accuracy: 5/5 100%
+
+BARRED PUFFBIRD accuracy: 3/5 60%
+
+BAY-BREASTED WARBLER accuracy: 4/5 90%
+
+BEARDED BARBET accuracy: 4/5 90%
+
+BEARDED BELLBIRD accuracy: 5/5 100%
+
+BEARDED REEDLING accuracy: 5/5 100%
+
+BELTED KINGFISHER accuracy: 2/5 40%
+
+BIRD OF PARADISE accuracy: 5/5 100%
+
+BLACK & YELLOW bROADBILL accuracy: 5/5 100%
+
+BLACK BAZA accuracy: 4/5 90%
+
+BLACK FRANCOLIN accuracy: 4/5 90%
+
+BLACK SKIMMER accuracy: 5/5 100%
+
+BLACK SWAN accuracy: 5/5 100%
+
+BLACK TAIL CRAKE accuracy: 5/5 100%
+
+BLACK THROATED BUSHTIT accuracy: 5/5 100%
+
+BLACK THROATED WARBLER accuracy: 5/5 100%
+
+BLACK VULTURE accuracy: 5/5 100%
+
+BLACK-CAPPED CHICKADEE accuracy: 5/5 100%
+
+BLACK-NECKED GREBE accuracy: 5/5 100%
+
+BLACK-THROATED SPARROW accuracy: 5/5 100%
+
+BLACKBURNIAM WARBLER accuracy: 0/5 0%
+
+BLONDE CRESTED WOODPECKER accuracy: 5/5 100%
+
+BLUE COAU accuracy: 5/5 100%
+
+BLUE GROUSE accuracy: 5/5 100%
+
+BLUE HERON accuracy: 5/5 100%
+
+BLUE THROATED TOUCANET accuracy: 5/5 100%
+
+BOBOLINK accuracy: 3/5 60%
+
+BORNEAN BRISTLEHEAD accuracy: 5/5 100%
+
+BORNEAN LEAFBIRD accuracy: 3/5 60%
+
+BORNEAN PHEASANT accuracy: 4/5 90%
+
+BRANDT CORMARANT accuracy: 5/5 100%
+
+BROWN CREPPER accuracy: 5/5 100%
+
+BROWN NOODY accuracy: 5/5 100%
+
+BROWN THRASHER accuracy: 4/5 90%
+
+BULWERS PHEASANT accuracy: 5/5 100%
+
+CACTUS WREN accuracy: 5/5 100%
+
+CALIFORNIA CONDOR accuracy: 4/5 90%
+
+CALIFORNIA GULL accuracy: 4/5 90%
+
+CALIFORNIA QUAIL accuracy: 3/5 60%
+
+CANARY accuracy: 5/5 100%
+
+CAPE GLOSSY STARLING accuracy: 5/5 100%
+
+CAPE MAY WARBLER accuracy: 5/5 100%
+
+CAPPED HERON accuracy: 5/5 100%
+
+CAPUCHINBIRD accuracy: 4/5 90%
+
+CARMINE BEE-EATER accuracy: 4/5 90%
+
+CASPIAN TERN accuracy: 5/5 100%
+
+CASSOWARY accuracy: 4/5 90%
+
+CEDAR WAXWING accuracy: 5/5 100%
+
+CERULEAN WARBLER accuracy: 3/5 60%
+
+CHARA DE COLLAR accuracy: 5/5 100%
+
+CHESTNET BELLIED EUPHONIA accuracy: 4/5 90%
+
+CHIPPING SPARROW accuracy: 2/5 40%
+
+CHUKAR PARTRIDGE accuracy: 5/5 100%
+
+CINNAMON TEAL accuracy: 5/5 100%
+
+CLARKS NUTCRACKER accuracy: 5/5 100%
+
+COCK OF THE  ROCK accuracy: 5/5 100%
+
+COCKATOO accuracy: 3/5 60%
+
+COLLARED ARACARI accuracy: 3/5 60%
+
+COMMON FIRECREST accuracy: 5/5 100%
+
+COMMON GRACKLE accuracy: 5/5 100%
+
+COMMON HOUSE MARTIN accuracy: 5/5 100%
+
+COMMON LOON accuracy: 1/5 20%
+
+COMMON POORWILL accuracy: 3/5 60%
+
+COMMON STARLING accuracy: 5/5 100%
+
+COUCHS KINGBIRD accuracy: 5/5 100%
+
+CRESTED AUKLET accuracy: 5/5 100%
+
+CRESTED CARACARA accuracy: 5/5 100%
+
+CRESTED NUTHATCH accuracy: 5/5 100%
+
+CRIMSON SUNBIRD accuracy: 5/5 100%
+
+CROW accuracy: 4/5 90%
+
+CROWNED PIGEON accuracy: 3/5 60%
+
+CUBAN TODY accuracy: 4/5 90%
+
+CUBAN TROGON accuracy: 4/5 90%
+
+CURL CRESTED ARACURI accuracy: 4/5 90%
+
+D-ARNAUDS BARBET accuracy: 5/5 100%
+
+DARK EYED JUNCO accuracy: 5/5 100%
+
+DOUBLE BARRED FINCH accuracy: 5/5 100%
+
+DOUBLE BRESTED CORMARANT accuracy: 5/5 100%
+
+DOWNY WOODPECKER accuracy: 5/5 100%
+
+EASTERN BLUEBIRD accuracy: 3/5 60%
+
+EASTERN MEADOWLARK accuracy: 4/5 90%
+
+EASTERN ROSELLA accuracy: 4/5 90%
+
+EASTERN TOWEE accuracy: 4/5 90%
+
+ELEGANT TROGON accuracy: 4/5 90%
+
+ELLIOTS  PHEASANT accuracy: 3/5 60%
+
+EMPEROR PENGUIN accuracy: 5/5 100%
+
+EMU accuracy: 2/5 40%
+
+ENGGANO MYNA accuracy: 4/5 90%
+
+EURASIAN GOLDEN ORIOLE accuracy: 3/5 60%
+
+EURASIAN MAGPIE accuracy: 5/5 100%
+
+EVENING GROSBEAK accuracy: 5/5 100%
+
+FAIRY BLUEBIRD accuracy: 5/5 100%
+
+FIRE TAILLED MYZORNIS accuracy: 5/5 100%
+
+FLAME TANAGER accuracy: 4/5 90%
+
+FLAMINGO accuracy: 5/5 100%
+
+FRIGATE accuracy: 3/5 60%
+
+GAMBELS QUAIL accuracy: 1/5 20%
+
+GANG GANG COCKATOO accuracy: 5/5 100%
+
+GILA WOODPECKER accuracy: 4/5 90%
+
+GILDED FLICKER accuracy: 5/5 100%
+
+GLOSSY IBIS accuracy: 4/5 90%
+
+GO AWAY BIRD accuracy: 5/5 100%
+
+GOLD WING WARBLER accuracy: 4/5 90%
+
+GOLDEN CHEEKED WARBLER accuracy: 3/5 60%
+
+GOLDEN CHLOROPHONIA accuracy: 4/5 90%
+
+GOLDEN EAGLE accuracy: 2/5 40%
+
+GOLDEN PHEASANT accuracy: 5/5 100%
+
+GOLDEN PIPIT accuracy: 5/5 100%
+
+GOULDIAN FINCH accuracy: 5/5 100%
+
+GRAY CATBIRD accuracy: 4/5 90%
+
+GRAY KINGBIRD accuracy: 5/5 100%
+
+GRAY PARTRIDGE accuracy: 0/5 0%
+
+GREAT GRAY OWL accuracy: 5/5 100%
+
+GREAT KISKADEE accuracy: 4/5 90%
+
+GREAT POTOO accuracy: 3/5 60%
+
+GREATOR SAGE GROUSE accuracy: 4/5 90%
+
+GREEN BROADBILL accuracy: 4/5 90%
+
+GREEN JAY accuracy: 4/5 90%
+
+GREEN MAGPIE accuracy: 5/5 100%
+
+GREY PLOVER accuracy: 5/5 100%
+
+GROVED BILLED ANI accuracy: 4/5 90%
+
+GUINEA TURACO accuracy: 5/5 100%
+
+GUINEAFOWL accuracy: 5/5 100%
+
+GYRFALCON accuracy: 2/5 40%
+
+HARLEQUIN DUCK accuracy: 5/5 100%
+
+HARPY EAGLE accuracy: 5/5 100%
+
+HAWAIIAN GOOSE accuracy: 5/5 100%
+
+HELMET VANGA accuracy: 5/5 100%
+
+HIMALAYAN MONAL accuracy: 5/5 100%
+
+HOATZIN accuracy: 1/5 20%
+
+HOODED MERGANSER accuracy: 3/5 60%
+
+HOOPOES accuracy: 4/5 90%
+
+HORNBILL accuracy: 4/5 90%
+
+HORNED GUAN accuracy: 5/5 100%
+
+HORNED LARK accuracy: 5/5 100%
+
+HORNED SUNGEM accuracy: 4/5 90%
+
+HOUSE FINCH accuracy: 5/5 100%
+
+HOUSE SPARROW accuracy: 5/5 100%
+
+HYACINTH MACAW accuracy: 4/5 90%
+
+IMPERIAL SHAQ accuracy: 3/5 60%
+
+INCA TERN accuracy: 5/5 100%
+
+INDIAN BUSTARD accuracy: 5/5 100%
+
+INDIAN PITTA accuracy: 5/5 100%
+
+INDIAN ROLLER accuracy: 5/5 100%
+
+INDIGO BUNTING accuracy: 4/5 90%
+
+IWI accuracy: 5/5 100%
+
+JABIRU accuracy: 3/5 60%
+
+JAVA SPARROW accuracy: 5/5 100%
+
+KAGU accuracy: 4/5 90%
+
+KAKAPO accuracy: 5/5 100%
+
+KILLDEAR accuracy: 5/5 100%
+
+KING VULTURE accuracy: 4/5 90%
+
+KIWI accuracy: 4/5 90%
+
+KOOKABURRA accuracy: 5/5 100%
+
+LARK BUNTING accuracy: 4/5 90%
+
+LAZULI BUNTING accuracy: 5/5 100%
+
+LILAC ROLLER accuracy: 0/5 0%
+
+LONG-EARED OWL accuracy: 1/5 20%
+
+MAGPIE GOOSE accuracy: 5/5 100%
+
+MALABAR HORNBILL accuracy: 3/5 60%
+
+MALACHITE KINGFISHER accuracy: 5/5 100%
+
+MALAGASY WHITE EYE accuracy: 3/5 60%
+
+MALEO accuracy: 5/5 100%
+
+MALLARD DUCK accuracy: 0/5 0%
+
+MANDRIN DUCK accuracy: 3/5 60%
+
+MANGROVE CUCKOO accuracy: 4/5 90%
+
+MARABOU STORK accuracy: 5/5 100%
+
+MASKED BOOBY accuracy: 4/5 90%
+
+MASKED LAPWING accuracy: 5/5 100%
+
+MIKADO  PHEASANT accuracy: 5/5 100%
+
+MOURNING DOVE accuracy: 4/5 90%
+
+MYNA accuracy: 5/5 100%
+
+NICOBAR PIGEON accuracy: 5/5 100%
+
+NOISY FRIARBIRD accuracy: 4/5 90%
+
+NORTHERN CARDINAL accuracy: 4/5 90%
+
+NORTHERN FLICKER accuracy: 5/5 100%
+
+NORTHERN FULMAR accuracy: 4/5 90%
+
+NORTHERN GANNET accuracy: 5/5 100%
+
+NORTHERN GOSHAWK accuracy: 5/5 100%
+
+NORTHERN JACANA accuracy: 5/5 100%
+
+NORTHERN MOCKINGBIRD accuracy: 3/5 60%
+
+NORTHERN PARULA accuracy: 4/5 90%
+
+NORTHERN RED BISHOP accuracy: 5/5 100%
+
+NORTHERN SHOVELER accuracy: 5/5 100%
+
+OCELLATED TURKEY accuracy: 2/5 40%
+
+OKINAWA RAIL accuracy: 5/5 100%
+
+ORANGE BRESTED BUNTING accuracy: 5/5 100%
+
+ORIENTAL BAY OWL accuracy: 5/5 100%
+
+OSPREY accuracy: 2/5 40%
+
+OSTRICH accuracy: 5/5 100%
+
+OVENBIRD accuracy: 5/5 100%
+
+OYSTER CATCHER accuracy: 5/5 100%
+
+PAINTED BUNTIG accuracy: 3/5 60%
+
+PALILA accuracy: 5/5 100%
+
+PARADISE TANAGER accuracy: 4/5 90%
+
+PARAKETT  AKULET accuracy: 5/5 100%
+
+PARUS MAJOR accuracy: 3/5 60%
+
+PATAGONIAN SIERRA FINCH accuracy: 5/5 100%
+
+PEACOCK accuracy: 5/5 100%
+
+PELICAN accuracy: 5/5 100%
+
+PEREGRINE FALCON accuracy: 4/5 90%
+
+PHILIPPINE EAGLE accuracy: 3/5 60%
+
+PINK ROBIN accuracy: 5/5 100%
+
+POMARINE JAEGER accuracy: 4/5 90%
+
+PUFFIN accuracy: 4/5 90%
+
+PURPLE FINCH accuracy: 0/5 0%
+
+PURPLE GALLINULE accuracy: 5/5 100%
+
+PURPLE MARTIN accuracy: 5/5 100%
+
+PURPLE SWAMPHEN accuracy: 0/5 0%
+
+PYGMY KINGFISHER accuracy: 4/5 90%
+
+QUETZAL accuracy: 3/5 60%
+
+RAINBOW LORIKEET accuracy: 5/5 100%
+
+RAZORBILL accuracy: 5/5 100%
+
+RED BEARDED BEE EATER accuracy: 2/5 40%
+
+RED BELLIED PITTA accuracy: 3/5 60%
+
+RED BROWED FINCH accuracy: 5/5 100%
+
+RED FACED CORMORANT accuracy: 5/5 100%
+
+RED FACED WARBLER accuracy: 5/5 100%
+
+RED FODY accuracy: 4/5 90%
+
+RED HEADED DUCK accuracy: 0/5 0%
+
+RED HEADED WOODPECKER accuracy: 5/5 100%
+
+RED HONEY CREEPER accuracy: 2/5 40%
+
+RED NAPED TROGON accuracy: 3/5 60%
+
+RED TAILED HAWK accuracy: 4/5 90%
+
+RED TAILED THRUSH accuracy: 5/5 100%
+
+RED WINGED BLACKBIRD accuracy: 5/5 100%
+
+RED WISKERED BULBUL accuracy: 5/5 100%
+
+REGENT BOWERBIRD accuracy: 5/5 100%
+
+RING-NECKED PHEASANT accuracy: 4/5 90%
+
+ROADRUNNER accuracy: 5/5 100%
+
+ROBIN accuracy: 5/5 100%
+
+ROCK DOVE accuracy: 5/5 100%
+
+ROSY FACED LOVEBIRD accuracy: 5/5 100%
+
+ROUGH LEG BUZZARD accuracy: 0/5 0%
+
+ROYAL FLYCATCHER accuracy: 5/5 100%
+
+RUBY THROATED HUMMINGBIRD accuracy: 5/5 100%
+
+RUDY KINGFISHER accuracy: 3/5 60%
+
+RUFOUS KINGFISHER accuracy: 4/5 90%
+
+RUFUOS MOTMOT accuracy: 4/5 90%
+
+SAMATRAN THRUSH accuracy: 4/5 90%
+
+SAND MARTIN accuracy: 1/5 20%
+
+SANDHILL CRANE accuracy: 5/5 100%
+
+SATYR TRAGOPAN accuracy: 3/5 60%
+
+SCARLET CROWNED FRUIT DOVE accuracy: 5/5 100%
+
+SCARLET IBIS accuracy: 5/5 100%
+
+SCARLET MACAW accuracy: 5/5 100%
+
+SCARLET TANAGER accuracy: 5/5 100%
+
+SHOEBILL accuracy: 5/5 100%
+
+SHORT BILLED DOWITCHER accuracy: 5/5 100%
+
+SMITHS LONGSPUR accuracy: 4/5 90%
+
+SNOWY EGRET accuracy: 5/5 100%
+
+SNOWY OWL accuracy: 4/5 90%
+
+SORA accuracy: 5/5 100%
+
+SPANGLED COTINGA accuracy: 5/5 100%
+
+SPLENDID WREN accuracy: 4/5 90%
+
+SPOON BILED SANDPIPER accuracy: 1/5 20%
+
+SPOONBILL accuracy: 5/5 100%
+
+SPOTTED CATBIRD accuracy: 5/5 100%
+
+SRI LANKA BLUE MAGPIE accuracy: 4/5 90%
+
+STEAMER DUCK accuracy: 4/5 90%
+
+STORK BILLED KINGFISHER accuracy: 3/5 60%
+
+STRAWBERRY FINCH accuracy: 5/5 100%
+
+STRIPED OWL accuracy: 4/5 90%
+
+STRIPPED MANAKIN accuracy: 5/5 100%
+
+STRIPPED SWALLOW accuracy: 5/5 100%
+
+SUPERB STARLING accuracy: 5/5 100%
+
+SWINHOES PHEASANT accuracy: 3/5 60%
+
+TAIWAN MAGPIE accuracy: 5/5 100%
+
+TAKAHE accuracy: 3/5 60%
+
+TASMANIAN HEN accuracy: 5/5 100%
+
+TEAL DUCK accuracy: 5/5 100%
+
+TIT MOUSE accuracy: 4/5 90%
+
+TOUCHAN accuracy: 5/5 100%
+
+TOWNSENDS WARBLER accuracy: 2/5 40%
+
+TREE SWALLOW accuracy: 3/5 60%
+
+TROPICAL KINGBIRD accuracy: 0/5 0%
+
+TRUMPTER SWAN accuracy: 5/5 100%
+
+TURKEY VULTURE accuracy: 0/5 0%
+
+TURQUOISE MOTMOT accuracy: 3/5 60%
+
+UMBRELLA BIRD accuracy: 4/5 90%
+
+VARIED THRUSH accuracy: 5/5 100%
+
+VENEZUELIAN TROUPIAL accuracy: 3/5 60%
+
+VERMILION FLYCATHER accuracy: 4/5 90%
+
+VICTORIA CROWNED PIGEON accuracy: 3/5 60%
+
+VIOLET GREEN SWALLOW accuracy: 5/5 100%
+
+VULTURINE GUINEAFOWL accuracy: 2/5 40%
+
+WALL CREAPER accuracy: 4/5 90%
+
+WATTLED CURASSOW accuracy: 5/5 100%
+
+WHIMBREL accuracy: 2/5 40%
+
+WHITE BROWED CRAKE accuracy: 5/5 100%
+
+WHITE CHEEKED TURACO accuracy: 4/5 90%
+
+WHITE NECKED RAVEN accuracy: 4/5 90%
+
+WHITE TAILED TROPIC accuracy: 5/5 100%
+
+WHITE THROATED BEE EATER accuracy: 5/5 100%
+
+WILD TURKEY accuracy: 5/5 100%
+
+WILSONS BIRD OF PARADISE accuracy: 5/5 100%
+
+WOOD DUCK accuracy: 5/5 100%
+
+YELLOW BELLIED FLOWERPECKER accuracy: 4/5 90%
+
+YELLOW CACIQUE accuracy: 5/5 100%
+
+YELLOW HEADED BLACKBIRD accuracy: 4/5 90%
+
+Total Overall accuracy: 1344/1625 83%
