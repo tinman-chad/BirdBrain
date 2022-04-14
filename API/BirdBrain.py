@@ -13,10 +13,7 @@ from skimage.util import compare_images
 import tensorflow as tf
 tf.get_logger().setLevel('WARN')           # Suppress TensorFlow logging (2)
 from tensorflow import keras
-from tensorflow.keras import layers
-from tensorflow.keras import optimizers
-from tensorflow.keras import models
-from tensorflow.keras.applications import EfficientNetV2L, EfficientNetV2S, EfficientNetV2B0
+from tensorflow.keras.applications import EfficientNetV2L
 from keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.models import load_model
 import pickle
